@@ -8,8 +8,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\LENOVO\Documents\proyecto en clases.cs" Link="proyecto en clases.cs" />
-  </ItemGroup>
-
 </Project>
